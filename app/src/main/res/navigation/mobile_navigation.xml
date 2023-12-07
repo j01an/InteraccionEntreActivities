@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navCliente">
+    <fragment
+        android:id="@+id/navCliente"
+        android:name="com.example.interaccionentreactivities.ui.Fragments.clienteFragment"
+        android:label="fragment_cliente"
+        tools:layout="@layout/fragment_cliente" />
+    <fragment
+        android:id="@+id/navLista"
+        android:name="com.example.interaccionentreactivities.ui.Fragments.listaFragment"
+        android:label="fragment_lista"
+        tools:layout="@layout/fragment_lista" />
+    <fragment
+        android:id="@+id/navPokemon"
+        android:name="com.example.interaccionentreactivities.ui.Fragments.pokemonFragment"
+        android:label="fragment_pokemon"
+        tools:layout="@layout/fragment_pokemon" />
+</navigation>

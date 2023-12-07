@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "95731927222",
+    "project_id": "testpc2-e0bb8",
+    "storage_bucket": "testpc2-e0bb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95731927222:android:085b153ab38d10864cbe17",
+        "android_client_info": {
+          "package_name": "com.example.interaccionentreactivities"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZa3WpBKmEciFt8wdeHg7t6PbfKwtSyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95731927222:android:8922e31cfd6c33f34cbe17",
+        "android_client_info": {
+          "package_name": "com.rogger.dpa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZa3WpBKmEciFt8wdeHg7t6PbfKwtSyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
